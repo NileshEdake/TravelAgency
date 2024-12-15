@@ -1,0 +1,14 @@
+/* App.module.css */
+.header {
+    font-size: 2.5rem;
+    color: royalblue;
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .subHeader {
+    font-size: 1.2rem;
+    color: gray;
+    text-align: center;
+  }
+  
