@@ -67,6 +67,8 @@ npm run build
 
 Deployed Link
 Frontend:[travel-agency-frontend](https://travel-agency-git-main-nilesh-edakes-projects.vercel.app/)
+admin id - admin@example.com
+password - adminpassword
 
 
 Backend: [travel-agency-backend](https://travel-agency-backend-production.up.railway.app/api)
