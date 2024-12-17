@@ -9,7 +9,7 @@ import AdminLogin from "./pages/AdminLogin";
 import AdminDashboard from "./pages/AdminDashboard";
 import ManagePackages from "./pages/ManagePackages";
 import ManageBookings from "./pages/ManageBookings";
-import PrivateRoute from "./components/PrivateRoute";
+
 
 function App() {
   return (
@@ -29,8 +29,8 @@ function App() {
           <Route path="/admin/dashboard" element={<AdminDashboard />}>
             <Route path="packages" element={<ManagePackages />} />
             <Route path="bookings" element={<ManageBookings />} />
-          </Route>
-       
+         
+            </Route>
       </Routes>
     </Router>
   );

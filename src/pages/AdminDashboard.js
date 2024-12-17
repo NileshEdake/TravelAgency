@@ -5,10 +5,10 @@ const AdminDashboard = () => {
   // Check for authentication token and role in localStorage
   const token = sessionStorage.getItem('token');
   const role = sessionStorage.getItem('role'); 
-  console.log(token)
-  // Ensure role is 'admin'
+ 
+  
 
-  // If no token or incorrect role, redirect to login page
+  
   if (!token || role !== 'admin') {
     return <Navigate to="/admin" />;  // Redirect to admin login if not authenticated or role is incorrect
   }
