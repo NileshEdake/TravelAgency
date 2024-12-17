@@ -6,7 +6,7 @@ This is the frontend application for the **Travel Agency Booking System**. The a
 
 ## Table of Contents
 
-- (#features)
+- [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Setup and Installation](#setup-and-installation)
 - [Available Scripts](#available-scripts)
@@ -44,9 +44,3 @@ To run the project locally, follow these steps:
    ```bash
    git clone https://github.com/NileshEdake/travelAgency.git
    cd travel-agency-frontend
-
- ###deployed-link
-frontend - https://travel-agency-i1p090m80-nilesh-edakes-projects.vercel.app/
-backend - travel-agency-backend-production.up.railway.app
-
-
