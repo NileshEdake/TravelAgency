@@ -66,5 +66,7 @@ Copy code
 npm run build
 
 Deployed Link
-Frontend: https://travel-agency-git-main-nilesh-edakes-projects.vercel.app/
-Backend: [travel-agency-backend-production.up.railway.app](https://travel-agency-backend-production.up.railway.app/api)
+Frontend:[travel-agency-frontend](https://travel-agency-git-main-nilesh-edakes-projects.vercel.app/)
+
+
+Backend: [travel-agency-backend](https://travel-agency-backend-production.up.railway.app/api)
